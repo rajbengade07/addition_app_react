@@ -1,2 +1,2 @@
-# addition_app_react
-It is an addition app built using React js
+# Addition App
+This is a simple React app that adds two numbers.
